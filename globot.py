@@ -2,7 +2,7 @@ import io
 import sys
 import time
 import json
-from PIL import Image
+import PIL.Image
 from playwright.sync_api import sync_playwright
 
 
